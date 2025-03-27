@@ -22,7 +22,7 @@ public class Main extends Application {
             e.printStackTrace();
         }
     }
-
+// hola
     public static void loadView(String fxmlFile) {
         try {
             FXMLLoader loader = new FXMLLoader(Main.class.getResource(fxmlFile));
